@@ -1,3 +1,4 @@
+#!/bin/bash
 virtualenv -p python3 venv
 source venv/bin/activate
 pip install pandas numpy scikit-learn tensorflow jupyter ipykernel
